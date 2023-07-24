@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋 Hope you're doing well and having a great day.
 
+- 🌱 I’m currently learning Prompt engineering / Investing
+- 📫 How to reach me: [phx13ye@gmail.com](mailto:phx13ye@gmail.com)
+
+> :briefcase: I'm currently on the hunt for my next adventure in Shenzhen, so if you know of any companies in need of a multi-talented superstar, let me know!
 <!--
 **Alwayswithme/Alwayswithme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
