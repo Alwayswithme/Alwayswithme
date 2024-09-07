@@ -4,6 +4,7 @@
 - 📫 How to reach me: [phx13ye@gmail.com](mailto:phx13ye@gmail.com)
 
 > 💼 👀 Seeking new opportunities in the tech world and willing to go the distance (literally, I'm open to remote roles 😉). Currently based in Shenzhen, but ready for my next adventure! 🚀
+[![My Skills](https://skillicons.dev/icons?i=go,java,mysql,redis,vim,git,docker,linux)]()
 <!--
 **Alwayswithme/Alwayswithme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
